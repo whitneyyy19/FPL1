@@ -1,0 +1,15 @@
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\bin\Debug\LibraryDatasource.mdf
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\bin\Debug\LibraryDatasource_log.ldf
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\bin\Debug\ProjectLibrary.exe.config
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\bin\Debug\ProjectLibrary.exe
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\bin\Debug\ProjectLibrary.pdb
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\obj\Debug\ProjectLibrary.csproj.AssemblyReference.cache
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\obj\Debug\ProjectLibrary.Properties.Resources.resources
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\obj\Debug\ProjectLibrary.csproj.GenerateResource.cache
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\obj\Debug\ProjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\obj\Debug\ProjectLibrary.exe
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\obj\Debug\ProjectLibrary.pdb
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\obj\Debug\ProjectLibrary.FormLoginInfo.resources
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\obj\Debug\ProjectLibrary.FormCollegeLibraaryPortal.resources
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\obj\Debug\ProjectLibrary.FormBook.resources
+C:\Users\Pinky\source\repos\ProjectLibrary\ProjectLibrary\obj\Debug\ProjectLibrary.FormStudent.resources
